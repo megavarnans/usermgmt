@@ -7,7 +7,7 @@ The docs folder contains the following diagrams for the User Management Microser
 3. Data Models
 4. Postman collection for the Web API endpoints
 
-The src folder contains the source code for the micro-service. Note that this is just a representative sample to illustrate the application architecture and is not production ready.
+The src folder contains the source code for the micro-service. Note that this is just a representative sample to illustrate the application architecture and is not production ready. To run the code open the RealPage.sln under the src folder and run the WebApi Project. This will launch the Swagger page to run the API endpoints. First execute authenticate with the email:megavarnan@gmail.com and password: test. Grab the JWT Bearer token to Authorize to run the other API endpoints.
 
 The tests folder contain the sample representative code for the unit testing using MS VS tests.
 
